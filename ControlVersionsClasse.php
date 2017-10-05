@@ -20,4 +20,9 @@ class ControlVersionsClasse {
     function metode1(){
         
     }
+    
+    function metode2(){
+        
+        
+    }
 }
