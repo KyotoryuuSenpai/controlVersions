@@ -29,4 +29,8 @@ class ControlVersionsClasse {
         
     }
     
+    function fantasma(){
+        
+    }
+    
 }
