@@ -29,10 +29,4 @@ class ControlVersionsClasse {
         
     }
     
-    function fantasma(){
-        $a = 2;
-        $c = 5;
-        $r =$a+$c;
-    }
-    
 }
